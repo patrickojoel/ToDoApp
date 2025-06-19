@@ -59,9 +59,9 @@ Ejemplo de usuario en `usuarios.json`:
 ```json
 [
   {
-    "usuario": "blinklearning",
-    "password": "blinklearning",
-    "nombre": "Blink Learning"
+    "usuario": "user",
+    "password": "user",
+    "nombre": "user"
   }
 ]
 ```
@@ -143,7 +143,9 @@ Puedes sustituir los estilos, íconos y colores para adaptar a tu marca o empres
 
 ## 👨‍💻 Autor
 
-> Proyecto desarrollado por **Patrick Joel Sarmiento** 
+> Proyecto desarrollado por **Patrick Joel Sarmiento**
+Web [impatrickjoel](https://impatrickjoel.com/)
+🔗 linkedin.com/in/patrickojoel
 
 ---
 
