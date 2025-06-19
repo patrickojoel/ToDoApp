@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>ToDo List - Kanban</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    body {
+      background-image: url('img/fondo.jpg'); /* ✅ Imagen de fondo aplicada directamente */
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  </style>
+</head>
+<body id="tareas-body">
+  <div id="contenedor-tareas">
+
+    <div id="tareas-box">
+      <h2 id="tareas-title">Todo App</h2>
+
+      <form id="formNuevaTarea">
+        <div id="input-row">
+          <input type="text" id="titulo" placeholder="Agregar nueva tarea" required />
+          <button type="submit" id="btn-add"><i class="fas fa-plus"></i></button>
+        </div>
+        <input type="text" id="descripcion" placeholder="Descripción de la tarea" required />
+      </form>
+
+      <ul id="listaTareas"></ul>
+
+      <div id="tareas-footer">
+        <button id="btn-clear">Borrar Todas</button>
+      </div>
+    </div>
+
+    <div id="detalle-box" class="oculto">
+      <h3 id="detalle-titulo">Detalle de la tarea</h3>
+      <p id="detalle-descripcion"></p>
+      <button id="btn-editar" class="btn-editar"><i class="fas fa-pen"></i></button>
+    </div>
+  </div>
+
+  <div id="usuario-box">
+    <img src="img/usuario.jpg" alt="Usuario" id="usuario-foto" />
+    <div id="usuario-info">
+      <strong id="usuario-nombre">admin</strong>
+      <span>Administrador</span>
+    </div>
+    <button id="btn-logout" class="btn-logout">
+      <i class="fas fa-sign-out-alt"></i>
+    </button>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+  <script src="js/tareas.js"></script>
+</body>
+</html>

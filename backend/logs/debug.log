@@ -1,0 +1,128 @@
+[2025-06-05 11:20:30] 🔐 Acceso a login.php
+[2025-06-05 11:20:30] 🛑 Excepción: ⚠️ No se recibió ningún dato del cliente.
+[2025-06-05 11:21:02] 🔐 Acceso a login.php
+[2025-06-05 11:21:02] 📩 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 11:21:02] 🔍 Usuario ingresado: blinklearning
+[2025-06-05 11:21:02] ✅ Login exitoso como Blink Learning
+[2025-06-05 11:21:36] ✅ Acceso a tareas.php como Blink Learning
+[2025-06-05 11:28:34] 🔐 Acceso a login.php
+[2025-06-05 11:28:34] 📩 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 11:28:34] 🔍 Usuario ingresado: blinklearning
+[2025-06-05 11:28:34] ✅ Login exitoso como Blink Learning
+[2025-06-05 11:28:37] ✅ Acceso a tareas.php como Blink Learning
+[2025-06-05 11:30:52] 👋 Logout iniciado por el usuario: Blink Learning
+[2025-06-05 11:30:52] ✅ Sesión cerrada correctamente
+[2025-06-05 11:31:01] 🔐 Acceso a login.php
+[2025-06-05 11:31:01] 📩 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 11:31:01] 🔍 Usuario ingresado: blinklearning
+[2025-06-05 11:31:01] ✅ Login exitoso como Blink Learning
+[2025-06-05 11:32:06] 👋 Logout iniciado por el usuario: Blink Learning
+[2025-06-05 11:32:06] ✅ Sesión cerrada correctamente
+[2025-06-05 11:32:15] 🔐 Acceso a login.php
+[2025-06-05 11:32:15] 📩 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 11:32:15] 🔍 Usuario ingresado: blinklearning
+[2025-06-05 11:32:15] ✅ Login exitoso como Blink Learning
+[2025-06-05 11:32:15] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 11:32:48] 👋 Logout iniciado por el usuario: Blink Learning
+[2025-06-05 11:32:48] ✅ Sesión cerrada correctamente
+[2025-06-05 11:32:52] tareas.php - ⛔ Intento de acceso sin sesión
+[2025-06-05 11:32:53] tareas.php - ⛔ Intento de acceso sin sesión
+[2025-06-05 11:32:54] tareas.php - ⛔ Intento de acceso sin sesión
+[2025-06-05 11:34:14] 🔐 Acceso a login.php
+[2025-06-05 11:34:14] 📩 JSON recibido: {"usuario":"monica.martinez@blinklearning.com","password":"blinklearning\""}
+[2025-06-05 11:34:14] 🔍 Usuario ingresado: monica.martinez@blinklearning.com
+[2025-06-05 11:34:14] ❌ Credenciales inválidas
+[2025-06-05 11:34:30] 🔐 Acceso a login.php
+[2025-06-05 11:34:30] 📩 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 11:34:30] 🔍 Usuario ingresado: blinklearning
+[2025-06-05 11:34:30] ✅ Login exitoso como Blink Learning
+[2025-06-05 11:34:30] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 11:48:50] 👋 Logout iniciado por el usuario: Blink Learning
+[2025-06-05 11:48:50] ✅ Sesión cerrada correctamente
+[2025-06-05 11:51:20] 🔐 Acceso a login.php
+[2025-06-05 11:51:20] 📩 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 11:51:20] 🔍 Usuario ingresado: blinklearning
+[2025-06-05 11:51:20] ✅ Login exitoso como Blink Learning
+[2025-06-05 11:51:20] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 11:57:53] 👋 Logout iniciado por el usuario: Blink Learning
+[2025-06-05 11:57:53] ✅ Sesión cerrada correctamente
+[2025-06-05 12:01:19] 🔐 Acceso a login.php
+[2025-06-05 12:01:19] 📩 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 12:01:19] 🔍 Usuario ingresado: blinklearning
+[2025-06-05 12:01:19] ✅ Login exitoso como Blink Learning
+[2025-06-05 12:01:19] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:05:59] 🔐 Acceso a login.php
+[2025-06-05 12:05:59] 📩 JSON recibido: {"usuario":"pepe","password":"pepe"}
+[2025-06-05 12:05:59] 🔍 Usuario ingresado: pepe
+[2025-06-05 12:05:59] ❌ Credenciales inválidas
+[2025-06-05 12:14:20] 👋 Logout iniciado por el usuario: Blink Learning
+[2025-06-05 12:14:20] ✅ Sesión cerrada correctamente
+[2025-06-05 12:22:14] 🔐 [LOGIN] Acceso a login.php
+[2025-06-05 12:22:14] 📨 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 12:22:14] 👤 Usuario: blinklearning
+[2025-06-05 12:22:14] ✅ Login correcto: Blink Learning
+[2025-06-05 12:22:14] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:20] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:21] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:21] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:22] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:22] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:22] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:23] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:25] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:42] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:43] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:46] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:22:46] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:31:40] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:31:44] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:35:52] 👋 Logout iniciado por el usuario: Array
+[2025-06-05 12:35:52] ✅ Sesión cerrada correctamente
+[2025-06-05 12:37:17] 🔐 [LOGIN] Acceso a login.php
+[2025-06-05 12:37:17] 📨 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 12:37:17] 👤 Usuario: blinklearning
+[2025-06-05 12:37:17] ✅ Login correcto: Blink Learning
+[2025-06-05 12:37:17] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 12:39:14] 👋 Logout iniciado por el usuario: Array
+[2025-06-05 12:39:14] ✅ Sesión cerrada correctamente
+[2025-06-05 13:07:15] 🔐 [LOGIN] Acceso a login.php
+[2025-06-05 13:07:15] 📨 JSON recibido: {"usuario":"blinklearning","password":"blinklearning"}
+[2025-06-05 13:07:15] 👤 Usuario: blinklearning
+[2025-06-05 13:07:15] ✅ Login correcto: Blink Learning
+[2025-06-05 13:07:15] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:14:01] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:17:06] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:18:14] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:18:21] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:18:33] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:26:15] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:26:19] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:26:26] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:26:27] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:26:28] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:26:28] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:26:46] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:29:18] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:32:10] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:32:18] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 13:39:05] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-05 17:10:34] tareas.php - ✅ Acceso autorizado como Blink Learning
+[2025-06-19 11:15:04] 🔐 [LOGIN] Acceso a login.php
+[2025-06-19 11:15:04] 📨 JSON recibido: {"usuario":"user","password":"user"}
+[2025-06-19 11:15:04] 👤 Usuario: user
+[2025-06-19 11:15:04] ✅ Login correcto: user
+[2025-06-19 11:15:04] tareas.php - ✅ Acceso autorizado como user
+[2025-06-19 12:20:18] 🔐 [LOGIN] Acceso a login.php
+[2025-06-19 12:20:18] 📨 JSON recibido: {"usuario":"user","password":"user}"}
+[2025-06-19 12:20:18] 👤 Usuario: user
+[2025-06-19 12:20:18] ❌ Login fallido: credenciales inválidas
+[2025-06-19 12:20:19] 🔐 [LOGIN] Acceso a login.php
+[2025-06-19 12:20:19] 📨 JSON recibido: {"usuario":"user","password":"user}"}
+[2025-06-19 12:20:19] 👤 Usuario: user
+[2025-06-19 12:20:19] ❌ Login fallido: credenciales inválidas
+[2025-06-19 12:20:23] 🔐 [LOGIN] Acceso a login.php
+[2025-06-19 12:20:23] 📨 JSON recibido: {"usuario":"user","password":"user"}
+[2025-06-19 12:20:23] 👤 Usuario: user
+[2025-06-19 12:20:23] ✅ Login correcto: user
+[2025-06-19 12:20:23] tareas.php - ✅ Acceso autorizado como user
+[2025-06-19 12:36:51] tareas.php - ✅ Acceso autorizado como user
