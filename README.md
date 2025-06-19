@@ -143,8 +143,7 @@ Puedes sustituir los estilos, íconos y colores para adaptar a tu marca o empres
 
 ## 👨‍💻 Autor
 
-> Proyecto desarrollado por **Patrick Joel Sarmiento** para **Blinklearning**.  
-> Entregado el **viernes 6 de mayo de 2025**.
+> Proyecto desarrollado por **Patrick Joel Sarmiento** 
 
 ---
 
