@@ -1,0 +1,14 @@
+[2025-06-19 14:09:18] 🔐 [LOGIN] Acceso a login.php
+[2025-06-19 14:09:18] 📨 JSON recibido: {"usuario":"user","password":"user"}
+[2025-06-19 14:09:18] 👤 Usuario: user
+[2025-06-19 14:09:18] ✅ Login correcto: user
+[2025-06-19 14:09:18] tareas.php - ✅ Acceso autorizado como user
+[2025-06-19 14:11:37] 👋 Logout iniciado por el usuario: Array
+[2025-06-19 14:11:37] ✅ Sesión cerrada correctamente
+[2025-06-19 14:11:44] 🔐 [LOGIN] Acceso a login.php
+[2025-06-19 14:11:44] 📨 JSON recibido: {"usuario":"user","password":"user"}
+[2025-06-19 14:11:44] 👤 Usuario: user
+[2025-06-19 14:11:44] ✅ Login correcto: user
+[2025-06-19 14:11:44] tareas.php - ✅ Acceso autorizado como user
+[2025-06-19 14:11:48] 👋 Logout iniciado por el usuario: Array
+[2025-06-19 14:11:48] ✅ Sesión cerrada correctamente
